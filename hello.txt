@@ -2,9 +2,7 @@ hi there
 
 this is an update to the test file.
 
-<<<<<<< HEAD
 This is an update after cloning the remote repository.
 Let's see how this is is amended to the last commit.
-=======
+
 This is an update after cloning the remote repository.
->>>>>>> 4cd4fc0d6e8586da0ae29e789f09f6741fd41cf7
