@@ -1,8 +1,0 @@
-hi there
-
-this is an update to the test file.
-
-This is an update after cloning the remote repository.
-Let's see how this is is amended to the last commit.
-
-This is an update after cloning the remote repository.
